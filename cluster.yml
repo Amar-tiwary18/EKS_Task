@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 
 metadata:
-  name: vishalcluster
+  name: Amarcluster
   region: ap-south-1
 
 
